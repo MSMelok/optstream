@@ -1,0 +1,7 @@
+export default function Guide() {
+  return (
+    <div className="flex items-center justify-center min-h-[calc(100vh-80px)]">
+      <h1 className="text-3xl font-bold text-white/60">Guide Content Coming Soon</h1>
+    </div>
+  );
+}
